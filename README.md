@@ -12,7 +12,7 @@
 - 🔧 Tools: Git
 
 ## 📫 Connect with Me
-- Twitter: [@john_doe](https://twitter.com/@abbas96)
-- LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/abbas-ibrahim)
-- GitHub: [github.com/john-doe](https://github.com/iabbas96)
-- Twitter: [@john_doe](https://twitter.com/@abbas96)
+- Twitter: [@abbas96](https://twitter.com/@abbas96)
+- LinkedIn: [linkedin.com/in/abbas-ibrahim](https://linkedin.com/in/abbas-ibrahim)
+- GitHub: [github.com/iabbas96](https://github.com/iabbas96)
+
