@@ -15,6 +15,6 @@
 
 ## 📫 Connect with Me
 - Twitter: [@abbas96](https://twitter.com/@abbas96)
-- LinkedIn: [linkedin.com/in/abbas-ibrahim](https://linkedin.com/in/abbas-ibrahim)
+- LinkedIn: https://www.linkedin.com/in/abbasibrahim/
 - GitHub: [github.com/iabbas96](https://github.com/iabbas96)
 
