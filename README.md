@@ -8,7 +8,7 @@
 - 🔭 Working on some exciting open-source projects.
 - 📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
 # 🛠 Tech Stack
-- 💻 Languages: PHP, JAVA, JAVASCRIPT
+- 💻 Languages: PHP,JAVASCRIPT.
 - 🖥️ Frameworks: Laravel, React, Node.js
 - 🛢️ Databases: MySQL, MongoDB
 - 🔧 Tools: Git
