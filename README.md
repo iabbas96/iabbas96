@@ -1,14 +1,14 @@
 # Hello, 👋 I'M ABBAS IBRAHIM 
-
+Software Engineer | Fullstack Developer | php(Laravel) Enthusiasts
 # 🚀 About Me
 - 🎓 I’m a Software Engineer passionate about web development and AI.
 - 📫 Reach ME: Ibrahimabbas970@gmail.com
 - 💻 Code via php Laravel(framework) FULL STACK.
-- 🚀 I have over 4 years of experience in web development, working with technologies like Laravel, JavaScript, React, Node.js, and more.
+- 🚀 I have over 5 years of experience in web development, working with technologies like Laravel, JavaScript, React, Node.js, and more.
 - 🔭 Working on some exciting open-source projects.
 - 📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
 # 🛠 Tech Stack
-- 💻 Languages: PHP,JAVASCRIPT, REACT.
+- 💻 Languages: PHP,JAVASCRIPT
 - 🖥️ Frameworks: Laravel, React, Node.js
 - 🛢️ Databases: MySQL, MongoDB
 - 🔧 Tools: Git
