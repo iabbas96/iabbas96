@@ -9,10 +9,10 @@
 - 📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
   
 # 🛠 Tech Stack
-- 💻 Languages: JAVASCRIPT,PHP
-- 🖥️ Frameworks: Laravel, React, Node.js
-- 🛢️ Databases: MySQL, MongoDB, MySQLite3
-- 🔧 Tools: Git
+- 💻 Languages:   Javascript,PHP
+- 🖥️ Frameworks:  React, Laravel,NextJs,Prisma, Express.j, Node.js
+- 🛢️ Databases:    MongoDB, MySQL, PostgresQL, Supabase, MySQLite3
+- 🔧 Tools:       Git
 
 ## 📫 Connect with Me
 - Twitter: [@abbas96](https://twitter.com/@abbas96)
