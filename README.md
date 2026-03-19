@@ -15,7 +15,7 @@
 - 🔧 Tools:       Git
 
 ## 📫 Connect with Me
-- Twitter: [@abbas96](https://twitter.com/@abbas96)
+- Twitter: [@IAbbas96](https://x.com/IAabbas96)
 - LinkedIn: https://www.linkedin.com/in/abbasibrahim/
 - GitHub: [github.com/iabbas96](https://github.com/iabbas96)
 
