@@ -16,7 +16,9 @@
 
 ## 📫 Connect with Me
 - visit: https://iabbas96.github.io/
-- Twitter: [@IAbbas96](https://x.com/IAabbas96)
+- instagram: https://www.instagram.com/iabbas96/
+- Twitter(X): https://x.com/IAbbas96
 - LinkedIn: https://www.linkedin.com/in/abbasibrahim/
+-facebook: https://www.facebook.com/abbas.ibrahim.940
 - GitHub: [github.com/iabbas96](https://github.com/iabbas96)
 
