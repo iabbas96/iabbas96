@@ -1,5 +1,5 @@
 # Hello, 👋 I'M ABBAS IBRAHIM 
-|Software Engineer | Fullstack Developer |
+|Software Engineer|Fullstack Developer|
 # 🚀 About Me
 - 🎓 I’m a Software Engineer passionate about web development and AI.
 - 📫 Reach ME: Ibrahimabbas970@gmail.com
@@ -9,10 +9,10 @@
 - 📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
   
 # 🛠 Tech Stack
-- 💻 Languages:   Javascript,PHP
-- 🖥️ Frameworks:  React, Laravel,NextJs,Prisma, Express.j, Node.js
-- 🛢️ Databases:    MongoDB, MySQL, PostgresQL, Supabase, MySQLite3
-- 🔧 Tools:       Git
+- 💻 Languages:   JavaScript|PHP
+- 🖥️ Frameworks:  Next.Js|Laravel|Express.js|Node.js
+- 🛢️ Databases:    MongoDB|MySQL|PostgresQL|MySQLite3
+- 🔧 Tools:       Git|Github
 
 ## 📫 Connect with Me
 - visit: https://iabbas96.github.io/
