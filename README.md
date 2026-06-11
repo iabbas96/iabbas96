@@ -1,5 +1,5 @@
 # Hello, 👋 I'M ABBAS IBRAHIM 
-|Software Engineer|Fullstack Developer|
+|Fullstack Developer|
 # 🚀 About Me
 - 🎓 I’m a Software Engineer passionate about web development and AI.
 - 📫 Reach ME: Ibrahimabbas970@gmail.com
