@@ -1,7 +1,7 @@
 # Hello, 👋 I'M ABBAS IBRAHIM 
 |Fullstack Developer|
 # 🚀 About Me
-- 🎓 I’m a Fullstack Developer passionate about web development and AI.
+- 🎓 I’m a Mid-Level Fullstack Developer passionate about web development and AI.
 - 📫 Reach ME: Ibrahimabbas970@gmail.com
 - 💻 FULL STACK DEVELOPER.
 - 🚀 I have over 5 years of experience in web development, working with technologies like Laravel, JavaScript, React, Node.js, and more.
