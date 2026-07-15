@@ -13,9 +13,7 @@
   🔧 Tools:       Git|Github
 
 # 📫 Connect with Me
-  visit: https://iabbas96.github.io/
-  Twitter(X): https://x.com/IAbbas96
+  visit: https://iabbas96.github.io/  
   LinkedIn: https://www.linkedin.com/in/abbasibrahim/
-  facebook: https://www.facebook.com/abbas.ibrahim.940
 # GitHub: [github.com/iabbas96](https://github.com/iabbas96)
 
