@@ -7,9 +7,9 @@
   Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
   
 # Tech Stack
-  Languages:   JavaScript|Typescript|PHP
-  Frameworks:  Next.Js|Laravel|Express.js|Node.js
-  Databases:    MongoDB|MySQL|PostgresQL|MySQLite3
+  Languages:   JavaScript|Typescript|PHP  ||  
+  Frameworks:  Next.Js|Laravel|Express.js|Node.js || 
+  Databases:    MongoDB|MySQL|PostgresQL|MySQLite3 || 
   Tools:       Git|Github
 
 # Connect with Me
