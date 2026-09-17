@@ -1,19 +1,15 @@
-# I'M ABBAS IBRAHIM 
-  |Fullstack Developer|
+Hello, I’m Abbas Ibrahim
+Fullstack Developer
 
-# About Me
-  I’m a Fullstack Developer passionate about web development and AI.
-# Reach ME via: *Ibrahimabbas970@gmail.com*
-  Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
-  
-# Tech Stack
-  Languages:   JavaScript|Typescript|PHP  ||  
-  Frameworks:  Next.Js|Laravel|Express.js|Node.js || 
-  Databases:    MongoDB|MySQL|PostgresQL|MySQLite3 || 
-  Tools:       Git|Github
+Focus on building robust, scalable and maintainable backend architectures and astonishing user interfaces. Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
 
-# Connect with Me
-  visit: https://iabbas96.github.io/  
-  LinkedIn: https://www.linkedin.com/in/abbasibrahim/
-# GitHub: [github.com/iabbas96](https://github.com/iabbas96)
+Tech Stack
+Backend:  (NodeJS | NestJS) MongoDB, PostgreSQL, APIs.
+Frontend: NextJS, React, Tailwind CSS.
+Specialties: SPA Applications, E-commerce Systems, Authentication & Security, Database Optimization, Dynamic Fullstack Solutions.
 
+Connect with Me
+Email: Ibrahimabbas970@gmail.com
+Visit: https://iabbas96.github.io/ 
+Work Status: Available for scalable collaborations and impactful activities.
+“Every line of codes, is a step closer to greatness...”
