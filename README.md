@@ -5,7 +5,9 @@ Focus on building robust, scalable and maintainable backend architectures and as
 
 # Tech Stack
 Backend:  (NodeJS | NestJS) MongoDB, PostgreSQL, APIs.
+
 Frontend: NextJS, React, Tailwind CSS.
+
 Specialties: SPA Applications, E-commerce Systems, Authentication & Security, Database Optimization, Dynamic Fullstack Solutions.
 
 # Connect with Me
