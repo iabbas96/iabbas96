@@ -12,7 +12,9 @@ Specialties: SPA Applications, E-commerce Systems, Authentication & Security, Da
 
 # Connect with Me
 Email: Ibrahimabbas970@gmail.com
+
 Visit: https://iabbas96.github.io/ 
+
 Work Status: Available for scalable collaborations and impactful activities.
 
 # “Every line of codes, is a step closer to greatness...”
